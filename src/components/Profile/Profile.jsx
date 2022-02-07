@@ -12,7 +12,8 @@ const Profile = () =>{
 
             <div> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyw1Q7OUaTbMV6O6EJC8oJIfIXGKAm1dh9YWOY62vkZ3jwQgHqHw850yxooDAmTbsav_A&usqp=CAU'></img> </div>
 
-            <div>Ava + desc</div>
+            <div>Ava + dds</div>
+            
 
             <MyPosts/>
 
