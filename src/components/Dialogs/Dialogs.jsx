@@ -8,12 +8,12 @@ const Dialogs = () => {
     return(
         <div className = {s.dialogs}>
             <div className = {s.dialogsItems}>
-                <div className = {s.dialog}><NavLink to ="/dialogs/1"> Maxim </NavLink></div>
-                <div className = {s.dialog}><NavLink to ="/dialogs/2"> Maxim </NavLink></div>
-                <div className = {s.dialog}><NavLink to ="/dialogs/3"> Maxim </NavLink></div>
-                <div className = {s.dialog}><NavLink to ="/dialogs/4"> Maxim </NavLink></div>
-                <div className = {s.dialog}><NavLink to ="/dialogs/5"> Maxim </NavLink></div>
-                <div className = {s.dialog}><NavLink to ="/dialogs/6"> Maxim </NavLink></div>
+                <div className = {s.dialog}><NavLink to ="/dialogs/1"> Artem </NavLink></div>
+                <div className = {s.dialog}><NavLink to ="/dialogs/2"> Artem </NavLink></div>
+                <div className = {s.dialog}><NavLink to ="/dialogs/3"> Artem </NavLink></div>
+                <div className = {s.dialog}><NavLink to ="/dialogs/4"> Artem </NavLink></div>
+                <div className = {s.dialog}><NavLink to ="/dialogs/5"> Artem </NavLink></div>
+                <div className = {s.dialog}><NavLink to ="/dialogs/6"> Artem </NavLink></div>
 
             </div>
 
