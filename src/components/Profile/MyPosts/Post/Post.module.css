@@ -1,0 +1,10 @@
+
+
+.item{
+  color:rgb(2, 60, 107);
+}
+
+.item img {
+  width: 60px;
+  border-radius: 50px;
+}

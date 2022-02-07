@@ -1,0 +1,42 @@
+html, body{
+  margin: 0;
+  height: 100%;
+  background-color: rgb(189, 186, 186);
+}
+
+.app-wrapper * {
+    
+  padding: 1px;
+  
+  
+  
+  font-size: 22px;
+  font-family: sans-serif;
+  color:#fff;
+}
+
+.app-wrapper{
+  display: grid;
+  height: 100%;
+  grid-gap:10px 10px;
+
+  grid-template-areas:
+        "header header"
+        "navBar c"
+        "f f";
+
+  grid-template-columns: 200px 1fr;
+  grid-template-rows:70px 1fr 50px;
+}
+
+.app-wrapper-content{
+    grid-area: c;
+    background-color: rgba(204, 36, 128, 0.747);
+}
+
+
+
+
+
+
+
